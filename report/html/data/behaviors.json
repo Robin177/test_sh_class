@@ -1,0 +1,17 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "test_mobile_display_input",
+    "uid" : "848ffc5c3397bbef",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1589798011018,
+      "stop" : 1589798019662,
+      "duration" : 8644
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  } ]
+}

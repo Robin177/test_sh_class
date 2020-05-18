@@ -1,0 +1,11 @@
+[ {
+  "uid" : "848ffc5c3397bbef",
+  "name" : "test_mobile_display_input",
+  "time" : {
+    "start" : 1589798011018,
+    "stop" : 1589798019662,
+    "duration" : 8644
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

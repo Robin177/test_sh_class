@@ -1,0 +1,55 @@
+{
+  "uid" : "848ffc5c3397bbef",
+  "name" : "test_mobile_display_input",
+  "fullName" : "scripts.test_display.TestDisplay#test_mobile_display_input",
+  "historyId" : "012fc72ae5c1ffea08a5c54ede8906d4",
+  "time" : {
+    "start" : 1589798011018,
+    "stop" : 1589798019662,
+    "duration" : 8644
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "scripts"
+  }, {
+    "name" : "suite",
+    "value" : "test_display"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestDisplay"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-SQLDMUP"
+  }, {
+    "name" : "thread",
+    "value" : "11684-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "scripts.test_display"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "848ffc5c3397bbef.json",
+  "parameterValues" : [ ]
+}
